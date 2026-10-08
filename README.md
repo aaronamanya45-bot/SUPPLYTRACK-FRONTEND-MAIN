@@ -1,4 +1,4 @@
-#SUPPLYTRACK FRONTEND
+**SUPPLYTRACK FRONTEND**
 
 The client-side web application for **SupplyTrack**, built with React. It provides intuitive user interfaces for customers, suppliers, station workers, and administrators to interact seamlessly with the supply chain and order tracking system.
 
